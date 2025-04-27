@@ -1,5 +1,5 @@
-🚀 Mini Hackathon Project
-A fast, clean, and responsive web project built with only HTML and CSS.
+<h1>🚀 Mini Hackathon Project</h1>
+<br>A fast, clean, and responsive web project built with only HTML and CSS.
 
 
 📋 About The Project
