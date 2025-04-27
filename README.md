@@ -1,51 +1,40 @@
-<h1>🚀 Mini Hackathon Project</h1>
-<br>A fast, clean, and responsive web project built with only HTML and CSS.
+
+# 🚀 Mini Hackathon Project
+
+> **A fast, clean, and responsive web project built with only HTML and CSS.**
+
+[![Live Site](https://img.shields.io/badge/View-Live-blueviolet?style=for-the-badge&logo=google-chrome)](https://hafsa-shahid-28.github.io/mini_hackathon/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/HAFSA-SHAHID-28/mini_hackathon)
+
+---
+
+## 📋 About The Project
+
+This project was developed during a **Mini Hackathon Challenge** to demonstrate creativity, quick thinking, and front-end development skills.
+
+The goal was to create a clean, responsive webpage using **only** core web technologies — without any frameworks!
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** 🧱
+- **CSS3** 🎨
+
+---
+
+## 🌟 Features
 
 
-📋 About The Project
-This project was developed during a Mini Hackathon Challenge to demonstrate creativity, quick thinking, and front-end development skills.
+- 🎯 Minimal and Clean Design
+- ⚡ Fast Loading
+- 🖌️ Creative UI with Pure CSS
+- 📚 Organized Folder Structure
 
-The goal was to create a clean, responsive webpage using only core web technologies — without any frameworks!
+---
 
-🛠️ Technologies Used
-HTML5 🧱
+## 📂 Project Structure
 
-CSS3 🎨
 
-🌟 Features
-📱 Fully Responsive (Mobile-Friendly)
 
-🎯 Minimal and Clean Design
-
-⚡ Fast Loading
-
-🖌️ Creative UI with Pure CSS
-
-📚 Organized Folder Structure
-
-📂 Project Structure
-pgsql
-Copy
-Edit
-mini_hackathon/
-├── index.html
-├── style.css
-└── assets/
-    ├── images/
-    └── icons/
-📸 Preview Screenshot
-(You can add a screenshot of your live site here if you want for extra professionalism!)
-
-🚀 Live Demo
-👉 Click Here to View the Live Website
-
-🙋‍♀️ Author
-Name: Hafsa Shahid
-
-GitHub: @HAFSA-SHAHID-28
-
-📢 Feedback & Contributions
-If you have any ideas, feedback, or want to collaborate — feel free to reach out! 🤝
-Let’s build something amazing together! 🌟
-
-🏆 Thank You for Visiting!
+# 🏆 Thank You for Visiting!
